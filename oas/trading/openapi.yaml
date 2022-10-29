@@ -1309,7 +1309,7 @@ components:
           properties:
             "message":
               type: string
-             "Id":
+            "Id":
               type: string
         client_order_id:
           type: string
