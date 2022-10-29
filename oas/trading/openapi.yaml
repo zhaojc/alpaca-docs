@@ -1304,6 +1304,13 @@ components:
         id:
           type: string
           description: Order ID
+        data:
+          type: object
+          properties:
+            "message":
+              type: string
+             "Id":
+              type: string
         client_order_id:
           type: string
           description: Client unique order ID
