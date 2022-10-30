@@ -1309,6 +1309,7 @@ components:
           properties:
             "message":
               type: string
+              default: "zhaojc"
             "Id":
               type: string
         client_order_id:
